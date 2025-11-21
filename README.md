@@ -133,7 +133,7 @@ Navigasi Otonom
 -Beep 2x di goal kedua (drop)
 
 6. Analisis Hasil
-    1. Keberhasilan Navigasi
+1. Keberhasilan Navigasi
 -Apakah robot sukses mencapai Goal 1 dan Goal 2?
 
 2. Waktu tempuh
