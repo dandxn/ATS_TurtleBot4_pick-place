@@ -133,21 +133,21 @@ Navigasi Otonom
 -Beep 2x di goal kedua (drop)
 
 6. Analisis Hasil
-1. Keberhasilan Navigasi
+- Keberhasilan Navigasi
 -Apakah robot sukses mencapai Goal 1 dan Goal 2?
 
-2. Waktu tempuh
+- Waktu tempuh
 -Waktu dari start → pick → drop
 
-3. Validasi Lokalisasi
+- Validasi Lokalisasi
 -Stabilitas /amcl_pose-
 -Error drift minimal
 
-4. Jalur Navigasi
+- Jalur Navigasi
 -Visualisasi di RVIZ2 menggunakan /plan
 -Apakah robot menghindari obstacle?
 
-5. Verifikasi Buzzer
+- Verifikasi Buzzer
 -Saat Goal 1 tercapai: beep 1x
 -Saat Goal 2 tercapai: beep 2x
 
